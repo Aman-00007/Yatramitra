@@ -1,0 +1,36 @@
+{
+  "name": "webkriti-project-t2",
+  "version": "1.0.0",
+  "description": "Travel Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3athSkulll/whitesnake-airlines-backend.git"
+  },
+  "author": "Shivam, Udit, Nagarjuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D3athSkulll/whitesnake-airlines-backend/issues"
+  },
+  "homepage": "https://github.com/D3athSkulll/whitesnake-airlines-backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "html-pdf": "^3.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "nodemailer": "^6.10.1",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.2",
+    "stripe": "^16.2.0"
+  }
+}
