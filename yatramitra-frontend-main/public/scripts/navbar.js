@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                     </div>
                 </div>
                 <div class="footer-bottom">
-                    &copy; 2024 YatraMitra. All rights reserved.
+                    &copy; 2025 YatraMitra. All rights reserved.
                 </div>
             </div>
     `
