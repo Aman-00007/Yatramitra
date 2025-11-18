@@ -46,8 +46,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                     <div class="footer-col">
                         <h4>follow us</h4>
                         <div class="social-links">
-                            <a href="https://github.com/D3athSkulll/yatramitra-frontend"><i class="fab fa-github"></i></a>
-                            <a href="https://github.com/D3athSkulll/yatramitra-backend"><i class="fab fa-github"></i></a>
+                            <a href="https://github.com/Aman-00007/Yatramitra"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                 </div>
